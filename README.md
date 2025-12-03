@@ -15,7 +15,7 @@ I am a passionate Computer Science student at FAST NUCES, driven by a deep curio
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,java,springboot,postgresql,mysql,pinecone,chroma,flutter,node.js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,java,postgresql,mysql,flutter,nodejs)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
