@@ -2,7 +2,7 @@
 
 I am a passionate Computer Science student at FAST NUCES, driven by a deep curiosity for technology, astronomy, and impactful communication. Alongside my CS journey, I love creating content, writing, and building projects that solve real-world problems while inspiring others.
 
-![laibamohsin's Stats](https://github-readme-stats.vercel.app/api?username=laibamohsin3002\&theme=vue-dark\&show_icons=true\&hide_border=true\&count_private=true)
+![laibamohsin's Stats](https://github-readme-stats.vercel.app/api?username=laibamohsin3002&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
